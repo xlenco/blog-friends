@@ -31,7 +31,6 @@ body:
             "title": "",
             "url": "",
             "avatar": "",
-            "screenshot": "",
             "description": ""
         }
         ```
